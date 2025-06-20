@@ -49,7 +49,7 @@ const ServiceSlider = () => {
                 {service.icon}
               </div>
               <h3
-                className="font-semibold text-lg mt-4"
+                className="font-semibold text-sm mt-4"
                 style={{ color: "#66ff00" }}
               >
                 {service.title}
